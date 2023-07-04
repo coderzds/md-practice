@@ -84,7 +84,7 @@
 2. 有序列表项2
 3. 有序列表项3
 
-- [ ] 任务列表项1
+- [x] 任务列表项1
 - [ ] 任务列表项2
 
 ## 公式
@@ -153,7 +153,7 @@ public class Test {
 
 示例：
 
-![Markdown Logo](image/markdown.png)
+![Markdown Logo](./static/image/markdown.png)
 
 ## 表格
 
