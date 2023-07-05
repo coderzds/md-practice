@@ -153,7 +153,7 @@ public class Test {
 
 示例：
 
-![Markdown Logo](../static/markdown.png)
+![Markdown Logo](./static/markdown.png)
 
 ## 表格
 

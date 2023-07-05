@@ -1,7 +1,5 @@
-# md-practice
+# github pages
 
-[常用语法](./markdown-template.md)
-
-[Typora主题预览](./markdown-template.html)
+[Typora主题预览](./test-theme.html)
 
 
