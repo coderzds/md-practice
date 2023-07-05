@@ -4,5 +4,6 @@
 
 [Typora主题css文件](./static/mytheme.css)
 
-[Typora主题预览](./docs/markdown-template.html)
+[Typora主题预览](https://coderzds.github.io/md-practice/markdown-template.html)
+
 
