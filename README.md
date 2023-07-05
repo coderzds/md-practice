@@ -4,6 +4,6 @@
 
 [Typora主题css文件](./static/mytheme.css)
 
-[Typora主题预览](https://coderzds.github.io/md-practice/test-theme.html)
+[Typora主题预览](./docs/test-theme.html)
 
 
